@@ -24,3 +24,16 @@
 
 
  #  ['DATE AND TIME', '2019/11/28 15:29', 'TRANSACTION REF', 'FT19332900780599', 'Amount', '1910.7 \xa0 ( SAR )', 'DEBIT THE A/C', ' xx001 ', 'mada card', ' **6762 ', 'Merchant name', ' Ubuy ', 'Country', ' Saudi Arabia - السعودية ', 'Transaction Details', 'E-commerce Purchase - دفع عبر مشتريات الانترنت']
+
+
+ # for i in range(1, 9):
+#     del details_list[i*2]
+
+# final_json = {}
+
+# for i in range(0, 8):
+#     if i % 2 == 0:
+#         final_json[details_list[i]] = details_list[i+1]
+
+# print(final_json)
+# details_list = []
