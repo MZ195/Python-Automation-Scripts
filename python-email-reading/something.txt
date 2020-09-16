@@ -1,0 +1,9001 @@
+DATE AND TIME
+2019/11/28 15:29
+التاريخ والوقت
+TRANSACTION REF
+FT19332900780599
+رقم العملية
+Amount
+1910.7   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Ubuy 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2019/11/26 10:24
+التاريخ والوقت
+TRANSACTION REF
+ACLK19330WFPCF
+رقم العملية
+Amount
+3761.11   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ WWW NEWEGG COM 
+اسم التاجر
+Country
+ USA - أمريكا 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2019/11/24 09:16
+التاريخ والوقت
+TRANSACTION REF
+FT19328505164286
+رقم العملية
+Amount
+8   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ DUNKIN DONUTS 10327 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/23 09:10
+التاريخ والوقت
+TRANSACTION REF
+FT19327716972201
+رقم العملية
+Amount
+24   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Starbucks Tafaseel 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/08/26 12:41
+التاريخ والوقت
+TRANSACTION REF
+FT19238710871750
+رقم العملية
+Amount
+18.90   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ CATERING 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/08/26 13:19
+التاريخ والوقت
+TRANSACTION REF
+FT19238014120050
+رقم العملية
+Amount
+14.00   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ SURPRISE SAMA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/08/27 12:38
+التاريخ والوقت
+TRANSACTION REF
+FT19239972385738
+رقم العملية
+Amount
+18.90   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ CATERING 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/08/27 19:10
+التاريخ والوقت
+TRANSACTION REF
+FT19239155470494
+رقم العملية
+Amount
+44.00   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ TAKHASUSSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/08/28 13:13
+التاريخ والوقت
+TRANSACTION REF
+FT19240071306535
+رقم العملية
+Amount
+21.00   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ CATERING 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/08/28 17:47
+التاريخ والوقت
+TRANSACTION REF
+FT19240416937081
+رقم العملية
+Amount
+185.00   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ Kayan Namar Trading 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/08/28 18:14
+التاريخ والوقت
+TRANSACTION REF
+FT19240406803046
+رقم العملية
+Amount
+150.00   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **3048 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2019/08/30 16:18
+التاريخ والوقت
+TRANSACTION REF
+FT19242099640913
+رقم العملية
+Amount
+17.00   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ RISTRETTO COFFE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/30 17:00
+التاريخ والوقت
+TRANSACTION REF
+FT19334328329120
+رقم العملية
+Amount
+279   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Virgin Megastore 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/28 11:42
+التاريخ والوقت
+TRANSACTION REF
+FT19332042246415
+رقم العملية
+Amount
+2669   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ IKEA 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2019/08/30 18:57
+التاريخ والوقت
+TRANSACTION REF
+FT19242007580264
+رقم العملية
+Amount
+23.00   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ MCDONALDS TAKHASSUSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+POS Purchase - دفع عبر نقاط البيع
+وصف العملية
+
+DATE AND TIME
+2019/11/30 16:09
+التاريخ والوقت
+TRANSACTION REF
+FT19334187185013
+رقم العملية
+Amount
+20   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ WAYNES COFFEE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/28 11:45
+التاريخ والوقت
+TRANSACTION REF
+FT19332847517702
+رقم العملية
+Amount
+2669   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ IKEA 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2019/08/30 19:18
+التاريخ والوقت
+TRANSACTION REF
+FT19242010290954
+رقم العملية
+Amount
+100.00   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **3048 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2019/11/25 14:09
+التاريخ والوقت
+TRANSACTION REF
+FT19329199567028
+رقم العملية
+Amount
+12   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Secret marketing For 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/09/05 11:03
+التاريخ والوقت
+TRANSACTION REF
+FT19248271657336
+رقم العملية
+Amount
+9   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ SAMA ALJWHRIA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/09/05 19:14
+التاريخ والوقت
+TRANSACTION REF
+FT19248706520182
+رقم العملية
+Amount
+20.08   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ AL GHARB AL TAKHASSUSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/25 15:52
+التاريخ والوقت
+TRANSACTION REF
+FT19329174767019
+رقم العملية
+Amount
+2529   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ IKEA 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2019/09/06 00:31
+التاريخ والوقت
+TRANSACTION REF
+ACLK19249N5PQ5
+رقم العملية
+Amount
+40   ( USD )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ PLAYSTATIONNETWORK 
+اسم التاجر
+Country
+ G.B. - بريطانيا. 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2019/08/26 19:13
+التاريخ والوقت
+TRANSACTION REF
+FT19238945397465
+رقم العملية
+Amount
+280.00   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ Zain SalesCo KC468 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/24 19:29
+التاريخ والوقت
+TRANSACTION REF
+FT19328602350135
+رقم العملية
+Amount
+185   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Abaad Aljeel Est Br 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2019/09/28 21:44
+التاريخ والوقت
+TRANSACTION REF
+FT19271035139201
+رقم العملية
+Amount
+1   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ Jawwy from STC 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2019/10/31 13:23
+التاريخ والوقت
+TRANSACTION REF
+ACLK19304DL99C
+رقم العملية
+Amount
+3.75   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ HungerStation 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2019/11/30 15:46
+التاريخ والوقت
+TRANSACTION REF
+FT19334078521517
+رقم العملية
+Amount
+17   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ CANTON 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/08/31 19:31
+التاريخ والوقت
+TRANSACTION REF
+FT19243011726830
+رقم العملية
+Amount
+300.00   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ SPORTS GHORNATAH 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/08/26 19:35
+التاريخ والوقت
+TRANSACTION REF
+FT19238074088488
+رقم العملية
+Amount
+24.00   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ MOSST ALSAJ ALTHAHBI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/09/28 21:45
+التاريخ والوقت
+TRANSACTION REF
+FT19271340023017
+رقم العملية
+Amount
+1.00   ( SAR )
+مبلغ وقدره
+CREDIT THE A/C
+ xx001 
+تم الإيداع إلى الحساب
+mada card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ Jawwy from STC 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+Deposit of reversed POS purchase - إيداع لعملية عكسية عبر نقاط البيع
+وصف العملية
+
+
+
+DATE AND TIME
+2019/08/31 20:51
+التاريخ والوقت
+TRANSACTION REF
+FT19243906130870
+رقم العملية
+Amount
+164.00   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ ALATLAL GRILLS FOR 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/08/27 08:54
+التاريخ والوقت
+TRANSACTION REF
+FT19239714991438
+رقم العملية
+Amount
+7.35   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ Mazaj Alshokolata Co 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/09/28 21:47
+التاريخ والوقت
+TRANSACTION REF
+FT19271625071609
+رقم العملية
+Amount
+73.5   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ Jawwy from STC 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2019/10/24 13:43
+التاريخ والوقت
+TRANSACTION REF
+ACLK19297J7SM4
+رقم العملية
+Amount
+4476.79   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ WWW NEWEGG COM 
+اسم التاجر
+Country
+ USA - أمريكا 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2019/11/29 09:49
+التاريخ والوقت
+TRANSACTION REF
+FT19333774299902
+رقم العملية
+Amount
+26   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MCDONALDS TAKHASSUSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/28 09:19
+التاريخ والوقت
+TRANSACTION REF
+FT19332272000176
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SAMA ALJWHRIA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/29 18:42
+التاريخ والوقت
+TRANSACTION REF
+FT19333664434445
+رقم العملية
+Amount
+357   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ IKEA 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE (DD/MM/YYYY)
+2019/11/26 13:57
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT19330620960406
+رقم العملية
+Amount
+40   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ سلطان فيصل بن لبده 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2019/11/29 19:28
+التاريخ والوقت
+TRANSACTION REF
+FT19333377487707
+رقم العملية
+Amount
+32   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ DR CAFE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/26 19:34
+التاريخ والوقت
+TRANSACTION REF
+FT19330038168577
+رقم العملية
+Amount
+50   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2019/11/25 20:29
+التاريخ والوقت
+TRANSACTION REF
+FT19329050484256
+رقم العملية
+Amount
+21   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Shawarmrji 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/25 09:26
+التاريخ والوقت
+TRANSACTION REF
+FT19329280677784
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SURPRISE SAMA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/24 14:20
+التاريخ والوقت
+TRANSACTION REF
+FT19328722922367
+رقم العملية
+Amount
+12   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Secret marketing For 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/27 09:38
+التاريخ والوقت
+TRANSACTION REF
+FT19331165090099
+رقم العملية
+Amount
+12   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Secret marketing For 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/21 09:36
+التاريخ والوقت
+TRANSACTION REF
+FT19325546828026
+رقم العملية
+Amount
+26   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ MCDONALDS TAKHASSUSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/26 09:03
+التاريخ والوقت
+TRANSACTION REF
+FT19330277087284
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SAMA ALJWHRIA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/21 10:23
+التاريخ والوقت
+TRANSACTION REF
+FT19325554402539
+رقم العملية
+Amount
+67   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **3048 
+بطاقة مدى رقم
+Merchant name
+ Al Dhaher Station 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/21 11:02
+التاريخ والوقت
+TRANSACTION REF
+FT19325230404067
+رقم العملية
+Amount
+50   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2019/11/28 21:04
+التاريخ والوقت
+TRANSACTION REF
+FT19332068552400
+رقم العملية
+Amount
+50   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2019/11/22 21:35
+التاريخ والوقت
+TRANSACTION REF
+FT19326904944580
+رقم العملية
+Amount
+50   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2019/11/25 09:48
+التاريخ والوقت
+TRANSACTION REF
+FT19329120740057
+رقم العملية
+Amount
+173.25   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Zain 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2019/11/22 08:16
+التاريخ والوقت
+TRANSACTION REF
+FT19326064651549
+رقم العملية
+Amount
+97   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Starbucks 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/27 09:21
+التاريخ والوقت
+TRANSACTION REF
+FT19331958050583
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SAMA ALJWHRIA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/11/22 21:57
+التاريخ والوقت
+TRANSACTION REF
+FT19326500016923
+رقم العملية
+Amount
+50   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2019/11/30 21:33
+التاريخ والوقت
+TRANSACTION REF
+FT19334047734545
+رقم العملية
+Amount
+50   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2019/12/01 12:00
+التاريخ والوقت
+TRANSACTION REF
+FT19335568007507
+رقم العملية
+Amount
+2529.00   ( SAR )
+مبلغ وقدره
+CREDIT THE A/C
+ xx001 
+تم الإيداع إلى الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ IKEA 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+Deposit of reversed POS purchase - إيداع لعملية عكسية عبر نقاط البيع
+وصف العملية
+
+DATE AND TIME
+2019/12/01 14:21
+التاريخ والوقت
+TRANSACTION REF
+FT19335267665394
+رقم العملية
+Amount
+12   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Secret marketing For 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/01 14:52
+التاريخ والوقت
+TRANSACTION REF
+FT19335520489442
+رقم العملية
+Amount
+7   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ DUNKIN DONUTS 10327 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/01 20:41
+التاريخ والوقت
+TRANSACTION REF
+FT19335194261565
+رقم العملية
+Amount
+50   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2019/12/02 09:08
+التاريخ والوقت
+TRANSACTION REF
+FT19336616197713
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SURPRISE SAMA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/03 08:54
+التاريخ والوقت
+TRANSACTION REF
+FT19337205070401
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SURPRISE SAMA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/03 09:05
+التاريخ والوقت
+TRANSACTION REF
+FT19337038829198
+رقم العملية
+Amount
+6   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Secret marketing For 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/03 20:19
+التاريخ والوقت
+TRANSACTION REF
+FT19337299778242
+رقم العملية
+Amount
+30   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ HARDEES EUROMARCHE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE (DD/MM/YYYY)
+2019/12/03 20:31
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT19337022075747
+رقم العملية
+Amount
+17   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ سلطان فيصل بن لبده 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2019/12/04 08:55
+التاريخ والوقت
+TRANSACTION REF
+FT19338366701209
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SURPRISE SAMA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/04 14:32
+التاريخ والوقت
+TRANSACTION REF
+FT19338471323630
+رقم العملية
+Amount
+12   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Secret marketing For 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/04 22:15
+التاريخ والوقت
+TRANSACTION REF
+FT19338785071569
+رقم العملية
+Amount
+28   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ HARDEES EUROMARCHE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/05 09:31
+التاريخ والوقت
+TRANSACTION REF
+FT19339905602048
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SURPRISE SAMA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/05 18:17
+التاريخ والوقت
+TRANSACTION REF
+FT19339235175035
+رقم العملية
+Amount
+300   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ BATH BODY WORKS 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/05 19:51
+التاريخ والوقت
+TRANSACTION REF
+FT19339613640701
+رقم العملية
+Amount
+50   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2019/12/06 09:54
+التاريخ والوقت
+TRANSACTION REF
+FT19340476505297
+رقم العملية
+Amount
+92   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Pan Breeza Restaurant 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/06 10:14
+التاريخ والوقت
+TRANSACTION REF
+FT19340501968821
+رقم العملية
+Amount
+45   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ RISTRETTO COFFE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/07 10:24
+التاريخ والوقت
+TRANSACTION REF
+FT19341023210186
+رقم العملية
+Amount
+100   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2019/12/07 10:49
+التاريخ والوقت
+TRANSACTION REF
+FT19341091909656
+رقم العملية
+Amount
+26   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MCDONALDS TAKHASSUSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/08 09:06
+التاريخ والوقت
+TRANSACTION REF
+FT19342619135003
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SURPRISE SAMA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/08 14:34
+التاريخ والوقت
+TRANSACTION REF
+FT19342490716794
+رقم العملية
+Amount
+38   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Secret marketing For 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/09 08:56
+التاريخ والوقت
+TRANSACTION REF
+FT19343717834038
+رقم العملية
+Amount
+61   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ one fuel stTION 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/09 09:11
+التاريخ والوقت
+TRANSACTION REF
+FT19343702584520
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SAMA ALJWHRIA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/09 09:23
+التاريخ والوقت
+TRANSACTION REF
+FT19343005838959
+رقم العملية
+Amount
+6   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Secret marketing For 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE (DD/MM/YYYY)
+2019/12/09 15:22
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT19343452736622
+رقم العملية
+Amount
+24   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ فارس عبدالله المحيميد 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2019/12/09 20:55
+التاريخ والوقت
+TRANSACTION REF
+FT19343659820987
+رقم العملية
+Amount
+28   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ HARDEES EUROMARCHE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/10 09:08
+التاريخ والوقت
+TRANSACTION REF
+FT19344507152468
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SURPRISE SAMA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/10 14:04
+التاريخ والوقت
+TRANSACTION REF
+FT19344050018248
+رقم العملية
+Amount
+17   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Secret marketing For 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/10 18:55
+التاريخ والوقت
+TRANSACTION REF
+FT19344656442021
+رقم العملية
+Amount
+45   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Third Mind Co for 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/11 09:07
+التاريخ والوقت
+TRANSACTION REF
+FT19345979615281
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SURPRISE SAMA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE (DD/MM/YYYY)
+2019/12/11 09:49
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT19345580644608
+رقم العملية
+Amount
+40   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ فايز غازي العنزي 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE (DD/MM/YYYY)
+2019/12/11 13:41
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT19345994429015
+رقم العملية
+Amount
+21   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ فارس عبدالله المحيميد 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2019/12/12 08:54
+التاريخ والوقت
+TRANSACTION REF
+FT19346213420230
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SURPRISE SAMA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/12 17:46
+التاريخ والوقت
+TRANSACTION REF
+FT19346984857382
+رقم العملية
+Amount
+75   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ JARIR BOOKSTORE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/13 16:44
+التاريخ والوقت
+TRANSACTION REF
+FT19347640456663
+رقم العملية
+Amount
+41   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ DRIP COFFEE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/13 21:51
+التاريخ والوقت
+TRANSACTION REF
+FT19347807610063
+رقم العملية
+Amount
+67   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Fuddruckers 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+POS Purchase - دفع عبر نقاط البيع
+وصف العملية
+
+DATE AND TIME
+2019/12/14 10:12
+التاريخ والوقت
+TRANSACTION REF
+FT19348343148984
+رقم العملية
+Amount
+139   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ H M 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/14 10:24
+التاريخ والوقت
+TRANSACTION REF
+FT19348080436784
+رقم العملية
+Amount
+26   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MCDONALDS TAKHASSUSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/14 10:35
+التاريخ والوقت
+TRANSACTION REF
+FT19348845583021
+رقم العملية
+Amount
+12   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Fahad Abdullah Al 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/14 15:37
+التاريخ والوقت
+TRANSACTION REF
+FT19348470546754
+رقم العملية
+Amount
+50   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2019/12/15 19:26
+التاريخ والوقت
+TRANSACTION REF
+ACLK19349GQH0T
+رقم العملية
+Amount
+19.99   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Spotify AB P0DDAF876B 
+اسم التاجر
+Country
+ Sweden - السويد 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2019/12/16 17:47
+التاريخ والوقت
+TRANSACTION REF
+FT19350092474476
+رقم العملية
+Amount
+23   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MCDONALDS TAKHASSUSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/17 09:36
+التاريخ والوقت
+TRANSACTION REF
+FT19351974533369
+رقم العملية
+Amount
+6   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Secret marketing For 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/17 17:35
+التاريخ والوقت
+TRANSACTION REF
+FT19351030999285
+رقم العملية
+Amount
+23   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MCDONALDS TAKHASSUSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/18 09:18
+التاريخ والوقت
+TRANSACTION REF
+FT19352564534260
+رقم العملية
+Amount
+14   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SURPRISE SAMA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE (DD/MM/YYYY)
+2019/12/18 14:43
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT19352061110461
+رقم العملية
+Amount
+34   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ سلطان فيصل بن لبده 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2019/12/18 19:28
+التاريخ والوقت
+TRANSACTION REF
+ACLK19352V9N0X
+رقم العملية
+Amount
+1   ( USD )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ PAYPAL 
+اسم التاجر
+Country
+ Luxembourg - لوكسمبورغ 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+
+DATE AND TIME
+2019/12/18 19:30
+التاريخ والوقت
+TRANSACTION REF
+ACLK19352JBCGJ
+رقم العملية
+Amount
+58.60   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ PAYPAL BONNIEPANG 
+اسم التاجر
+Country
+ Luxembourg - لوكسمبورغ 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2019/12/19 09:20
+التاريخ والوقت
+TRANSACTION REF
+FT19353525092890
+رقم العملية
+Amount
+7   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Secret marketing For 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/19 10:27
+التاريخ والوقت
+TRANSACTION REF
+FT19353307692681
+رقم العملية
+Amount
+15   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ DUNKIN DONUTS 10327 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/19 17:57
+التاريخ والوقت
+TRANSACTION REF
+FT19353843226750
+رقم العملية
+Amount
+239   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SMSA 41190 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/19 20:24
+التاريخ والوقت
+TRANSACTION REF
+FT19353670563771
+رقم العملية
+Amount
+100   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2019/12/20 09:54
+التاريخ والوقت
+TRANSACTION REF
+FT19354008373941
+رقم العملية
+Amount
+46   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ WAYNES COFFEE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/20 15:29
+التاريخ والوقت
+TRANSACTION REF
+FT19354676464839
+رقم العملية
+Amount
+25   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Anoosh 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+Account Number
+xx001
+رقم الحساب
+Amount
+26.25   ( SAR )
+مبلغ و قدرة
+Bill Number
+ 966506085501 
+رقم الفاتورة
+Biller Name
+ 
+اسم المفوتر
+DATE (DD/MM/YYYY)
+2019/12/20 16:00
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT19354061170278
+رقم العملية
+Transaction Description
+سداد فواتير  الخدمات / Bills Payment
+وصف العملية
+
+
+
+
+DATE AND TIME
+2019/12/20 18:13
+التاريخ والوقت
+TRANSACTION REF
+FT19354938792795
+رقم العملية
+Amount
+90.99   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ ANOOSH CO 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/20 19:50
+التاريخ والوقت
+TRANSACTION REF
+FT19354150642713
+رقم العملية
+Amount
+35   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Starbucks Tafaseel 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/20 20:44
+التاريخ والوقت
+TRANSACTION REF
+FT19354562801035
+رقم العملية
+Amount
+429.25   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SACO 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/21 19:06
+التاريخ والوقت
+TRANSACTION REF
+ACLK1935587ZMX
+رقم العملية
+Amount
+18   ( USD )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ PLAYSTATIONNETWORK 
+اسم التاجر
+Country
+ G.B. - بريطانيا. 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2019/12/22 09:09
+التاريخ والوقت
+TRANSACTION REF
+FT19356378840801
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SURPRISE SAMA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/22 13:21
+التاريخ والوقت
+TRANSACTION REF
+FT19356008028059
+رقم العملية
+Amount
+17   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Secret marketing For 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE (DD/MM/YYYY)
+2019/12/23 14:45
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT19357583385133
+رقم العملية
+Amount
+48   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ فارس عبدالله المحيميد 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE (DD/MM/YYYY)
+2019/12/24 14:05
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT19358084261589
+رقم العملية
+Amount
+33   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ سلطان فيصل بن لبده 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2019/12/24 18:02
+التاريخ والوقت
+TRANSACTION REF
+FT19358231910772
+رقم العملية
+Amount
+23   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MCDONALDS TAKHASSUSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/25 09:03
+التاريخ والوقت
+TRANSACTION REF
+FT19359077800946
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SAMA ALJWHRIA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/25 09:22
+التاريخ والوقت
+TRANSACTION REF
+FT19359390491051
+رقم العملية
+Amount
+8   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Idea Candy EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/25 19:50
+التاريخ والوقت
+TRANSACTION REF
+FT19359629897987
+رقم العملية
+Amount
+52   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ HARDEES EUROMARCHE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/26 09:37
+التاريخ والوقت
+TRANSACTION REF
+FT19360108313225
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SAMA ALJWHRIA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/26 09:38
+التاريخ والوقت
+TRANSACTION REF
+FT19360309347299
+رقم العملية
+Amount
+3000   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2019/12/26 10:23
+التاريخ والوقت
+TRANSACTION REF
+FT19360924253524
+رقم العملية
+Amount
+8   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Idea Candy EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/26 13:29
+التاريخ والوقت
+TRANSACTION REF
+FT19360213797441
+رقم العملية
+Amount
+12   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Secret marketing For 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/26 18:43
+التاريخ والوقت
+TRANSACTION REF
+FT19360589400097
+رقم العملية
+Amount
+3599   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ JARIR BOOK STORE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/26 19:11
+التاريخ والوقت
+TRANSACTION REF
+FT19360589508007
+رقم العملية
+Amount
+28   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MUJI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/26 19:45
+التاريخ والوقت
+TRANSACTION REF
+FT19360002441725
+رقم العملية
+Amount
+196   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ JARIR BOOK STORE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/27 10:16
+التاريخ والوقت
+TRANSACTION REF
+FT19361023468179
+رقم العملية
+Amount
+125   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ IHOP Restaurant 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+
+DATE AND TIME
+2019/12/27 22:09
+التاريخ والوقت
+TRANSACTION REF
+ACLK19361NXG8J
+رقم العملية
+Amount
+15   ( EUR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Blizzard Entertainment 
+اسم التاجر
+Country
+ Netherlands - هولندا 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2019/12/28 09:54
+التاريخ والوقت
+TRANSACTION REF
+FT19362002793948
+رقم العملية
+Amount
+61   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ AL DHAHER STATION 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/28 10:37
+التاريخ والوقت
+TRANSACTION REF
+FT19362172086340
+رقم العملية
+Amount
+155   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MAX RIYADH PARK 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/28 11:05
+التاريخ والوقت
+TRANSACTION REF
+FT19362172092702
+رقم العملية
+Amount
+150   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ AMERICAN EAGLE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/28 11:15
+التاريخ والوقت
+TRANSACTION REF
+FT19362310008300
+رقم العملية
+Amount
+178   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MOHAMMED AL ABDULKARIM 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/28 11:18
+التاريخ والوقت
+TRANSACTION REF
+FT19362530759004
+رقم العملية
+Amount
+36   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ UNCLE TETSU 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/28 11:46
+التاريخ والوقت
+TRANSACTION REF
+FT19362201411500
+رقم العملية
+Amount
+559   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ FOOTLOCKER 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/28 20:04
+التاريخ والوقت
+TRANSACTION REF
+FT19362188310826
+رقم العملية
+Amount
+134   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ TAMIMI MARKETS S131 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/28 20:44
+التاريخ والوقت
+TRANSACTION REF
+FT19362188464187
+رقم العملية
+Amount
+264.2   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ DANUBE FOODSTUFF 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+POS Purchase - دفع عبر نقاط البيع
+وصف العملية
+
+DATE AND TIME
+2019/12/29 08:52
+التاريخ والوقت
+TRANSACTION REF
+FT19363435061800
+رقم العملية
+Amount
+11   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Idea Candy EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+Account Number
+ xx001 
+رقم الحساب
+THE SUM
+90.00   ( SAR )
+مبلغ و قدرة
+DATE (DD/MM/YYYY)
+2019/12/29 11:08
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT19363938207365
+رقم العملية
+Sender Name
+فارس عبدالله المحيميد
+اسم المحول
+Transaction Description
+تحويل لمستفيد بنك البلاد /Transfer to Bank Albilad Beneficiary
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+Account Number
+ xx001 
+رقم الحساب
+THE SUM
+45.00   ( SAR )
+مبلغ و قدرة
+DATE (DD/MM/YYYY)
+2019/12/29 15:34
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT19363573437911
+رقم العملية
+Sender Name
+فايز غازي العنزي
+اسم المحول
+Transaction Description
+تحويل لمستفيد بنك البلاد /Transfer to Bank Albilad Beneficiary
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2019/12/29 17:29
+التاريخ والوقت
+TRANSACTION REF
+FT19363125768733
+رقم العملية
+Amount
+50   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+
+DATE AND TIME
+2019/12/30 09:28
+التاريخ والوقت
+TRANSACTION REF
+FT19364775864962
+رقم العملية
+Amount
+8   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Idea Candy EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+Account Number
+ xx001 
+رقم الحساب
+THE SUM
+45.00   ( SAR )
+مبلغ و قدرة
+DATE (DD/MM/YYYY)
+2019/12/30 10:59
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT19364810603894
+رقم العملية
+Sender Name
+نواف يوسف الميمان
+اسم المحول
+Transaction Description
+تحويل لمستفيد بنك البلاد /Transfer to Bank Albilad Beneficiary
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2019/12/30 21:22
+التاريخ والوقت
+TRANSACTION REF
+FT19364375444344
+رقم العملية
+Amount
+374   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ JARIR BOOK STORE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2019/12/31 20:00
+التاريخ والوقت
+TRANSACTION REF
+FT19365058133077
+رقم العملية
+Amount
+399   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ JARIR BOOK STORE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/01 09:35
+التاريخ والوقت
+TRANSACTION REF
+FT20001916731415
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SAMA ALJWHRIA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/02 21:50
+التاريخ والوقت
+TRANSACTION REF
+FT20002160211702
+رقم العملية
+Amount
+29.4   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Five Elephants Cafe 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/02 23:43
+التاريخ والوقت
+TRANSACTION REF
+FT20002930779767
+رقم العملية
+Amount
+121   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Smokey House Est 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/03 20:49
+التاريخ والوقت
+TRANSACTION REF
+FT20003030063759
+رقم العملية
+Amount
+53   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MOSST ALSAJ ALTHAHBI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/04 21:29
+التاريخ والوقت
+TRANSACTION REF
+FT20004069340880
+رقم العملية
+Amount
+120   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ TAKHASUSSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/05 19:19
+التاريخ والوقت
+TRANSACTION REF
+ACLK200050GWL3
+رقم العملية
+Amount
+20   ( USD )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Udemy 
+اسم التاجر
+Country
+ USA - أمريكا 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE (DD/MM/YYYY)
+2020/01/06 11:41
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20006543943703
+رقم العملية
+Amount
+21   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ سلطان فيصل بن لبده 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2020/01/06 19:40
+التاريخ والوقت
+TRANSACTION REF
+FT20006774809429
+رقم العملية
+Amount
+49   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ HARDEES EUROMARCHE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/07 08:51
+التاريخ والوقت
+TRANSACTION REF
+FT20007143119251
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SAMA ALJWHRIA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/07 09:09
+التاريخ والوقت
+TRANSACTION REF
+FT20007078550793
+رقم العملية
+Amount
+8   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Idea Candy EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/07 13:15
+التاريخ والوقت
+TRANSACTION REF
+FT20007401443966
+رقم العملية
+Amount
+350   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+Account Number
+ xx001 
+رقم الحساب
+THE SUM
+102.00   ( SAR )
+مبلغ و قدرة
+DATE (DD/MM/YYYY)
+2020/01/07 15:03
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20007005460101
+رقم العملية
+Sender Name
+فارس عبدالله المحيميد
+اسم المحول
+Transaction Description
+تحويل لمستفيد بنك البلاد /Transfer to Bank Albilad Beneficiary
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+Account Number
+ xx001 
+رقم الحساب
+THE SUM
+51.00   ( SAR )
+مبلغ و قدرة
+DATE (DD/MM/YYYY)
+2020/01/07 16:14
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20007400231581
+رقم العملية
+Sender Name
+نواف يوسف الميمان
+اسم المحول
+Transaction Description
+تحويل لمستفيد بنك البلاد /Transfer to Bank Albilad Beneficiary
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+Account Number
+ xx001 
+رقم الحساب
+THE SUM
+16.00   ( SAR )
+مبلغ و قدرة
+DATE (DD/MM/YYYY)
+2020/01/07 16:31
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20007275245130
+رقم العملية
+Sender Name
+فايز غازي العنزي
+اسم المحول
+Transaction Description
+تحويل لمستفيد بنك البلاد /Transfer to Bank Albilad Beneficiary
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2020/01/07 18:01
+التاريخ والوقت
+TRANSACTION REF
+FT20007783390442
+رقم العملية
+Amount
+151   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ JARIR BOOK STORE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/08 09:03
+التاريخ والوقت
+TRANSACTION REF
+FT20008400009999
+رقم العملية
+Amount
+8   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Idea Candy EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE (DD/MM/YYYY)
+2020/01/08 16:43
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20008344599044
+رقم العملية
+Amount
+8   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ سلطان فيصل بن لبده 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2020/01/09 09:32
+التاريخ والوقت
+TRANSACTION REF
+FT20009224977447
+رقم العملية
+Amount
+18   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Secret marketing For 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/09 17:57
+التاريخ والوقت
+TRANSACTION REF
+FT20009450752341
+رقم العملية
+Amount
+180   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ khiat zarar alshmokh 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/09 18:17
+التاريخ والوقت
+TRANSACTION REF
+FT20009828299162
+رقم العملية
+Amount
+27   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MCDONALDS TAKHASSUSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/10 13:18
+التاريخ والوقت
+TRANSACTION REF
+FT20010035857913
+رقم العملية
+Amount
+72   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ KRISPY KREME 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/10 19:34
+التاريخ والوقت
+TRANSACTION REF
+FT20010300210480
+رقم العملية
+Amount
+72.5   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ ALWOUSTAH FOOD 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/11 10:15
+التاريخ والوقت
+TRANSACTION REF
+FT20011586301520
+رقم العملية
+Amount
+190   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SHMOAA ALDERA 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/11 10:31
+التاريخ والوقت
+TRANSACTION REF
+FT20011519209143
+رقم العملية
+Amount
+26   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MCDONALDS TAKHASSUSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/11 15:56
+التاريخ والوقت
+TRANSACTION REF
+FT20011730976055
+رقم العملية
+Amount
+22.05   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Five Elephants Cafe 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/11 18:03
+التاريخ والوقت
+TRANSACTION REF
+FT20011400947950
+رقم العملية
+Amount
+26.5   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MOSST ALSAJ ALTHAHBI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/12 09:32
+التاريخ والوقت
+TRANSACTION REF
+FT20012343860674
+رقم العملية
+Amount
+8   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Idea Candy EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/12 19:54
+التاريخ والوقت
+TRANSACTION REF
+FT20012276780808
+رقم العملية
+Amount
+44   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ BURGERIZZR 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/13 09:00
+التاريخ والوقت
+TRANSACTION REF
+FT20013005885704
+رقم العملية
+Amount
+9   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Idea Candy EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/13 18:07
+التاريخ والوقت
+TRANSACTION REF
+FT20013520073197
+رقم العملية
+Amount
+170   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ khiat zarar alshmokh 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/14 09:24
+التاريخ والوقت
+TRANSACTION REF
+FT20014008791598
+رقم العملية
+Amount
+11   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Idea Candy EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/14 18:03
+التاريخ والوقت
+TRANSACTION REF
+FT20014665773860
+رقم العملية
+Amount
+15   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ WHITE FOAM 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/14 21:14
+التاريخ والوقت
+TRANSACTION REF
+FT20014291291650
+رقم العملية
+Amount
+48   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ TSC 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/15 08:45
+التاريخ والوقت
+TRANSACTION REF
+FT20015938609231
+رقم العملية
+Amount
+53   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ one fuel stTION 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/15 08:57
+التاريخ والوقت
+TRANSACTION REF
+FT20015850350892
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SAMA ALJWHRIA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/15 10:16
+التاريخ والوقت
+TRANSACTION REF
+ACLK200153ML92
+رقم العملية
+Amount
+19.99   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Spotify AB P0E38A542F 
+اسم التاجر
+Country
+ Sweden - السويد 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/01/15 19:33
+التاريخ والوقت
+TRANSACTION REF
+FT20015585020294
+رقم العملية
+Amount
+47.5   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ HARDEES EUROMARCHE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/16 08:54
+التاريخ والوقت
+TRANSACTION REF
+FT20016701579562
+رقم العملية
+Amount
+8   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Idea Candy EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/16 16:01
+التاريخ والوقت
+TRANSACTION REF
+ACLK20016JJ16B
+رقم العملية
+Amount
+95   ( USD )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Amazon com 
+اسم التاجر
+Country
+ USA - أمريكا 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/01/16 19:55
+التاريخ والوقت
+TRANSACTION REF
+FT20016695271057
+رقم العملية
+Amount
+48.5   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ HARDEES EUROMARCHE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/17 16:27
+التاريخ والوقت
+TRANSACTION REF
+FT20017033372449
+رقم العملية
+Amount
+40   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Herfy 18 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/18 10:16
+التاريخ والوقت
+TRANSACTION REF
+FT20018983653476
+رقم العملية
+Amount
+53   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ FUDDRUCKERS RAWDAH 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/18 13:02
+التاريخ والوقت
+TRANSACTION REF
+FT20018374253571
+رقم العملية
+Amount
+15   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ RISTRETTO COFFE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/18 21:41
+التاريخ والوقت
+TRANSACTION REF
+FT20018968783104
+رقم العملية
+Amount
+143.85   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ NORFAL TRADING CO 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/18 22:06
+التاريخ والوقت
+TRANSACTION REF
+FT20018844504542
+رقم العملية
+Amount
+21   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ ALRAHDEN 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/19 15:44
+التاريخ والوقت
+TRANSACTION REF
+FT20019580040262
+رقم العملية
+Amount
+13   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ RISTRETTO COFFE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/19 15:46
+التاريخ والوقت
+TRANSACTION REF
+FT20019940268403
+رقم العملية
+Amount
+110   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ RISTRETTO COFFE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/19 15:55
+التاريخ والوقت
+TRANSACTION REF
+FT20019580085902
+رقم العملية
+Amount
+35   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Fahad Abdullah Al 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/19 18:28
+التاريخ والوقت
+TRANSACTION REF
+FT20019394905321
+رقم العملية
+Amount
+429   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MEGASTORES CO LTD 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/20 19:53
+التاريخ والوقت
+TRANSACTION REF
+FT20020007250306
+رقم العملية
+Amount
+10.5   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ ALOTHAIM MARKETS 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+POS Purchase - دفع عبر نقاط البيع
+وصف العملية
+
+DATE AND TIME
+2020/01/21 14:48
+التاريخ والوقت
+TRANSACTION REF
+FT20021930715010
+رقم العملية
+Amount
+15   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ RISTRETTO COFFE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/21 21:43
+التاريخ والوقت
+TRANSACTION REF
+ACLK200215L0L5
+رقم العملية
+Amount
+2   ( USD )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ PP 2950CODE 
+اسم التاجر
+Country
+ Luxembourg - لوكسمبورغ 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/01/21 21:45
+التاريخ والوقت
+TRANSACTION REF
+ACLK20021C335R
+رقم العملية
+Amount
+59.64   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ PAYPAL AMZGAMECOLI 
+اسم التاجر
+Country
+ H.K. - هونج كونج 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/01/22 19:47
+التاريخ والوقت
+TRANSACTION REF
+FT20022072018867
+رقم العملية
+Amount
+200   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2020/01/22 19:59
+التاريخ والوقت
+TRANSACTION REF
+FT20022056305112
+رقم العملية
+Amount
+120   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SMSA 41190 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/23 14:09
+التاريخ والوقت
+TRANSACTION REF
+FT20023996694553
+رقم العملية
+Amount
+14.7   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Five Elephants Cafe 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+Account Number
+xx001
+رقم الحساب
+Amount
+52.5   ( SAR )
+مبلغ و قدرة
+Bill Number
+ 966506085501 
+رقم الفاتورة
+Biller Name
+ 
+اسم المفوتر
+DATE (DD/MM/YYYY)
+2020/01/24 09:04
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20024015681462
+رقم العملية
+Transaction Description
+سداد فواتير  الخدمات / Bills Payment
+وصف العملية
+
+
+
+
+DATE AND TIME
+2020/01/24 09:56
+التاريخ والوقت
+TRANSACTION REF
+FT20024530804443
+رقم العملية
+Amount
+64   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ IHOP Restaurant 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/24 20:52
+التاريخ والوقت
+TRANSACTION REF
+FT20024301044755
+رقم العملية
+Amount
+152   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ FUDDRUCKERS TAKKASSUSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/24 21:09
+التاريخ والوقت
+TRANSACTION REF
+FT20024315933709
+رقم العملية
+Amount
+85   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ EST abdulaziz Ali abdu 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/01/25 10:30
+التاريخ والوقت
+TRANSACTION REF
+FT20025360197110
+رقم العملية
+Amount
+50   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2020/01/26 17:56
+التاريخ والوقت
+TRANSACTION REF
+FT20026102559031
+رقم العملية
+Amount
+3050   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2020/01/26 20:00
+التاريخ والوقت
+TRANSACTION REF
+FT20026065592830
+رقم العملية
+Amount
+42.5   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ HARDEES EUROMARCHE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE (DD/MM/YYYY)
+2020/01/27 15:03
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20027471697476
+رقم العملية
+Amount
+23   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ فايز غازي العنزي 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2020/01/29 18:30
+التاريخ والوقت
+TRANSACTION REF
+FT20029480159289
+رقم العملية
+Amount
+1899   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ JARIR BOOK STORE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE (DD/MM/YYYY)
+2020/01/30 16:17
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20030520431840
+رقم العملية
+Amount
+38   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ فايز غازي العنزي 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE (DD/MM/YYYY)
+2020/02/02 15:10
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20033104768525
+رقم العملية
+Amount
+31   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ سلطان فيصل بن لبده 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE (DD/MM/YYYY)
+2020/02/03 12:52
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20034143372212
+رقم العملية
+Amount
+14.6   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ عبدالله محمد الحمد 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2020/02/05 09:26
+التاريخ والوقت
+TRANSACTION REF
+FT20036190704000
+رقم العملية
+Amount
+11   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Idea Candy EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE (DD/MM/YYYY)
+2020/02/06 15:33
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20037047978196
+رقم العملية
+Amount
+35   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ حسام مزيد ال صقر 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE (DD/MM/YYYY)
+2020/02/09 16:33
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20040173412360
+رقم العملية
+Amount
+23   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ عبدالله محمد الحمد 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE (DD/MM/YYYY)
+2020/02/11 15:50
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20042006660017
+رقم العملية
+Amount
+39   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ فارس عبدالله المحيميد 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2020/02/12 08:46
+التاريخ والوقت
+TRANSACTION REF
+FT20043068354970
+رقم العملية
+Amount
+60   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ ONE FUEL STATION 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/13 09:10
+التاريخ والوقت
+TRANSACTION REF
+FT20044364650428
+رقم العملية
+Amount
+22   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Idea Candy EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/13 13:46
+التاريخ والوقت
+TRANSACTION REF
+ACLK20044QPHNZ
+رقم العملية
+Amount
+49   ( USD )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SOCIETY6 COM 
+اسم التاجر
+Country
+ USA - أمريكا 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/02/14 09:15
+التاريخ والوقت
+TRANSACTION REF
+FT20045453908947
+رقم العملية
+Amount
+14   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Starbucks Tafaseel 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/14 15:59
+التاريخ والوقت
+TRANSACTION REF
+FT20045139290823
+رقم العملية
+Amount
+227   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ TASTE SUGAR EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/14 21:31
+التاريخ والوقت
+TRANSACTION REF
+FT20045108884095
+رقم العملية
+Amount
+153   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Shake Shack 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/14 22:14
+التاريخ والوقت
+TRANSACTION REF
+FT20045006395459
+رقم العملية
+Amount
+28.1   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ ALOTHAIM MARKETS 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/15 10:15
+التاريخ والوقت
+TRANSACTION REF
+ACLK200462FQQ7
+رقم العملية
+Amount
+19.99   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Spotify AB P0E967BC14 
+اسم التاجر
+Country
+ Sweden - السويد 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/02/15 18:36
+التاريخ والوقت
+TRANSACTION REF
+FT20046839660969
+رقم العملية
+Amount
+48.5   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ HARDEES EUROMARCHE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/16 09:54
+التاريخ والوقت
+TRANSACTION REF
+FT20047128245913
+رقم العملية
+Amount
+8   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Idea Candy EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/16 18:32
+التاريخ والوقت
+TRANSACTION REF
+FT20047346201026
+رقم العملية
+Amount
+48.5   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ HARDEES EUROMARCHE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/17 08:52
+التاريخ والوقت
+TRANSACTION REF
+FT20048992223400
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SAMA ALJWHRIA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/17 09:16
+التاريخ والوقت
+TRANSACTION REF
+FT20048808373505
+رقم العملية
+Amount
+6   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Idea Candy EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/17 16:48
+التاريخ والوقت
+TRANSACTION REF
+ACLK200488636Y
+رقم العملية
+Amount
+361.42   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ AMZN Mktp US 
+اسم التاجر
+Country
+ USA - أمريكا 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/02/17 20:07
+التاريخ والوقت
+TRANSACTION REF
+FT20048151470554
+رقم العملية
+Amount
+28.5   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MOSST ALSAJ ALTHAHBI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/18 09:30
+التاريخ والوقت
+TRANSACTION REF
+FT20049017329805
+رقم العملية
+Amount
+11   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Idea Candy EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE (DD/MM/YYYY)
+2020/02/18 17:03
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20049828601734
+رقم العملية
+Amount
+40   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ حسام مزيد ال صقر 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+Account Number
+ xx001 
+رقم الحساب
+THE SUM
+21.00   ( SAR )
+مبلغ و قدرة
+DATE (DD/MM/YYYY)
+2020/02/18 17:04
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20049214772522
+رقم العملية
+Sender Name
+نواف يوسف الميمان
+اسم المحول
+Transaction Description
+ تحويل لمستفيد بنك البلاد /Transfer to Bank Albilad Beneficiary
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+Account Number
+ xx001 
+رقم الحساب
+THE SUM
+21.00   ( SAR )
+مبلغ و قدرة
+DATE (DD/MM/YYYY)
+2020/02/18 17:04
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20049746476001
+رقم العملية
+Sender Name
+فارس عبدالله المحيميد
+اسم المحول
+Transaction Description
+تحويل لمستفيد بنك البلاد /Transfer to Bank Albilad Beneficiary
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE (DD/MM/YYYY)
+2020/02/18 17:05
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20049921992051
+رقم العملية
+Amount
+42   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ حسام مزيد ال صقر 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2020/02/19 09:54
+التاريخ والوقت
+TRANSACTION REF
+FT20050244969856
+رقم العملية
+Amount
+16   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Idea Candy EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/19 13:55
+التاريخ والوقت
+TRANSACTION REF
+FT20050356451457
+رقم العملية
+Amount
+250   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+Account Number
+ xx001 
+رقم الحساب
+THE SUM
+27.50   ( SAR )
+مبلغ و قدرة
+DATE (DD/MM/YYYY)
+2020/02/19 15:14
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20050204109744
+رقم العملية
+Sender Name
+فارس عبدالله المحيميد
+اسم المحول
+Transaction Description
+ تحويل لمستفيد بنك البلاد /Transfer to Bank Albilad Beneficiary
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+Account Number
+ xx001 
+رقم الحساب
+THE SUM
+21.00   ( SAR )
+مبلغ و قدرة
+DATE (DD/MM/YYYY)
+2020/02/19 15:29
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20050330114537
+رقم العملية
+Sender Name
+فايز غازي العنزي
+اسم المحول
+Transaction Description
+ تحويل لمستفيد بنك البلاد /Transfer to Bank Albilad Beneficiary
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2020/02/19 20:55
+التاريخ والوقت
+TRANSACTION REF
+ACLK200502JSBM
+رقم العملية
+Amount
+1   ( EUR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Booking com 
+اسم التاجر
+Country
+ Netherlands - هولندا 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+
+Account Number
+ xx001 
+رقم الحساب
+THE SUM
+47.50   ( SAR )
+مبلغ و قدرة
+DATE (DD/MM/YYYY)
+2020/02/19 15:19
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20050658010608
+رقم العملية
+Sender Name
+حسام مزيد ال صقر
+اسم المحول
+Transaction Description
+تحويل لمستفيد بنك البلاد /Transfer to Bank Albilad Beneficiary
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+Account Number
+ xx001 
+رقم الحساب
+THE SUM
+21.00   ( SAR )
+مبلغ و قدرة
+DATE (DD/MM/YYYY)
+2020/02/19 15:12
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20050330053220
+رقم العملية
+Sender Name
+نواف يوسف الميمان
+اسم المحول
+Transaction Description
+تحويل لمستفيد بنك البلاد /Transfer to Bank Albilad Beneficiary
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2020/02/19 08:57
+التاريخ والوقت
+TRANSACTION REF
+FT20050479694080
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SAMA ALJWHRIA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/20 09:24
+التاريخ والوقت
+TRANSACTION REF
+FT20051024338782
+رقم العملية
+Amount
+18   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Idea Candy EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE (DD/MM/YYYY)
+2020/02/20 16:55
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20051289693005
+رقم العملية
+Amount
+35   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ فارس عبدالله المحيميد 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2020/02/20 20:13
+التاريخ والوقت
+TRANSACTION REF
+FT20051567268805
+رقم العملية
+Amount
+68.25   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Zain 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/02/20 20:16
+التاريخ والوقت
+TRANSACTION REF
+FT20051100758262
+رقم العملية
+Amount
+105   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Zain 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/02/21 10:25
+التاريخ والوقت
+TRANSACTION REF
+FT20052051939016
+رقم العملية
+Amount
+33   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Dr Cafe 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/21 21:03
+التاريخ والوقت
+TRANSACTION REF
+FT20052000594600
+رقم العملية
+Amount
+50   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ DOWAL ALJAZEERA 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/21 23:21
+التاريخ والوقت
+TRANSACTION REF
+FT20052674546217
+رقم العملية
+Amount
+64   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ BRISKET 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/22 08:10
+التاريخ والوقت
+TRANSACTION REF
+FT20053568202145
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ QAF COFFEE ROASTERS 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/22 10:06
+التاريخ والوقت
+TRANSACTION REF
+FT20053796924446
+رقم العملية
+Amount
+64   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ IHOP Restaurant 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/22 21:21
+التاريخ والوقت
+TRANSACTION REF
+FT20053886415000
+رقم العملية
+Amount
+280   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ HOSPITALITY APARTMENTS 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/23 07:34
+التاريخ والوقت
+TRANSACTION REF
+FT20054002925530
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ QAF COFFEE ROASTERS 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/23 09:41
+التاريخ والوقت
+TRANSACTION REF
+ACLK20054X7PSH
+رقم العملية
+Amount
+23.78   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ UBER TRIP HELP UBER CO 
+اسم التاجر
+Country
+ Netherlands - هولندا 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/02/23 10:04
+التاريخ والوقت
+TRANSACTION REF
+FT20054848434235
+رقم العملية
+Amount
+21   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ StarBucks 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/23 10:52
+التاريخ والوقت
+TRANSACTION REF
+FT20054459166856
+رقم العملية
+Amount
+3.5   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Saudi Post Corporation 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/02/23 11:25
+التاريخ والوقت
+TRANSACTION REF
+ACLK20054PHM6D
+رقم العملية
+Amount
+20.78   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ UBER TRIP HELP UBER CO 
+اسم التاجر
+Country
+ Netherlands - هولندا 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/02/23 16:15
+التاريخ والوقت
+TRANSACTION REF
+FT20054111403300
+رقم العملية
+Amount
+17   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ KEDEN INTERNATIONAL CO 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/23 17:09
+التاريخ والوقت
+TRANSACTION REF
+FT20054460470074
+رقم العملية
+Amount
+189   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Aldo 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/23 20:28
+التاريخ والوقت
+TRANSACTION REF
+FT20054697859524
+رقم العملية
+Amount
+44   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ CRAVIA ARABIA 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/23 22:55
+التاريخ والوقت
+TRANSACTION REF
+FT20054600149910
+رقم العملية
+Amount
+16   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ ANTR RESTURANT 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/24 09:08
+التاريخ والوقت
+TRANSACTION REF
+ACLK20055WXZ34
+رقم العملية
+Amount
+16.48   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ UBER TRIP HELP UBER CO 
+اسم التاجر
+Country
+ Netherlands - هولندا 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/02/24 09:36
+التاريخ والوقت
+TRANSACTION REF
+ACLK20055XDF43
+رقم العملية
+Amount
+10.00   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ UBER TRIP HELP UBER CO 
+اسم التاجر
+Country
+ Netherlands - هولندا 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/02/26 13:38
+التاريخ والوقت
+TRANSACTION REF
+FT20057071919104
+رقم العملية
+Amount
+246   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ STARBUCKS 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/26 17:24
+التاريخ والوقت
+TRANSACTION REF
+FT20057352580672
+رقم العملية
+Amount
+199   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ ALSHEF ALAWAL EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/27 20:18
+التاريخ والوقت
+TRANSACTION REF
+FT20058958944023
+رقم العملية
+Amount
+212   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ EST AWAL QEMAH 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/27 20:40
+التاريخ والوقت
+TRANSACTION REF
+FT20058988331361
+رقم العملية
+Amount
+29.93   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Al Muaith Co 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/28 21:47
+التاريخ والوقت
+TRANSACTION REF
+FT20059430236400
+رقم العملية
+Amount
+116   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ IDEA ORBIT COMPANY FOR 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/02/29 19:45
+التاريخ والوقت
+TRANSACTION REF
+FT20060026502603
+رقم العملية
+Amount
+559   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ FOOTLOCKER 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/03/01 13:29
+التاريخ والوقت
+TRANSACTION REF
+ACLK20061MCRF0
+رقم العملية
+Amount
+90   ( GBP )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ KICKSTARTER GUWEIZ T 
+اسم التاجر
+Country
+ G.B. - بريطانيا. 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/03/04 17:57
+التاريخ والوقت
+TRANSACTION REF
+ACLK20064L5QW3
+رقم العملية
+Amount
+15   ( USD )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ DESIGN CODE 3 
+اسم التاجر
+Country
+ Canada - كندا 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/03/07 08:52
+التاريخ والوقت
+TRANSACTION REF
+FT20067366490405
+رقم العملية
+Amount
+25   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Muntami Company 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/03/10 16:36
+التاريخ والوقت
+TRANSACTION REF
+FT20070038090374
+رقم العملية
+Amount
+58   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ ALRAHDEN 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/03/11 08:54
+التاريخ والوقت
+TRANSACTION REF
+FT20071640619361
+رقم العملية
+Amount
+10   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SAMA ALJWHRIA EST 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+
+
+
+DATE (DD/MM/YYYY)
+2020/03/17 08:56
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20077713701280
+رقم العملية
+Amount
+48   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ فايز غازي العنزي 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2020/03/18 10:16
+التاريخ والوقت
+TRANSACTION REF
+ACLK20078336RS
+رقم العملية
+Amount
+19.99   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Spotify AB P0EFDA1040 
+اسم التاجر
+Country
+ Sweden - السويد 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE (DD/MM/YYYY)
+2020/04/01 13:03
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20092254982116
+رقم العملية
+Amount
+82.38   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ المكتب التعاوني للدعوة بحي الروضة 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2020/04/06 08:34
+التاريخ والوقت
+TRANSACTION REF
+FT20097272413104
+رقم العملية
+Amount
+20   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MCDONALDS TAKHASSUSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/04/07 10:57
+التاريخ والوقت
+TRANSACTION REF
+FT20098048554104
+رقم العملية
+Amount
+1   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Danube App 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/04/07 10:57
+التاريخ والوقت
+TRANSACTION REF
+FT20098510314286
+رقم العملية
+Amount
+1.00   ( SAR )
+مبلغ وقدره
+CREDIT THE A/C
+ xx001 
+تم الإيداع إلى الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Danube App 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+Deposit of reversed POS purchase - إيداع لعملية عكسية عبر نقاط البيع
+وصف العملية
+
+DATE AND TIME
+2020/04/15 10:15
+التاريخ والوقت
+TRANSACTION REF
+ACLK20106X5Y25
+رقم العملية
+Amount
+19.99   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Spotify AB P0F5885EE1 
+اسم التاجر
+Country
+ Sweden - السويد 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/04/21 08:58
+التاريخ والوقت
+TRANSACTION REF
+FT20112488100557
+رقم العملية
+Amount
+726.93   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ DANUBE FOODSTUFF 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+Account Number
+xx001
+رقم الحساب
+Amount
+52.5   ( SAR )
+مبلغ و قدرة
+Bill Number
+ 966506085501 
+رقم الفاتورة
+Biller Name
+ 
+اسم المفوتر
+DATE (DD/MM/YYYY)
+2020/05/01 19:17
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20122715063717
+رقم العملية
+Transaction Description
+سداد فواتير  الخدمات / Bills Payment
+وصف العملية
+
+
+
+
+DATE AND TIME
+2020/05/15 10:15
+التاريخ والوقت
+TRANSACTION REF
+ACLK201362S4FF
+رقم العملية
+Amount
+19.99   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Spotify AB P0FBD30E10 
+اسم التاجر
+Country
+ Sweden - السويد 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/05/22 13:51
+التاريخ والوقت
+TRANSACTION REF
+FT20143628109139
+رقم العملية
+Amount
+116.85   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ DANUBE FOODSTUFF 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/05/30 13:58
+التاريخ والوقت
+TRANSACTION REF
+FT20151408126577
+رقم العملية
+Amount
+134.01   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ DANUBE FOODSTUFF 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+Account Number
+xx001
+رقم الحساب
+Amount
+52.5   ( SAR )
+مبلغ و قدرة
+Bill Number
+ 966506085501 
+رقم الفاتورة
+Biller Name
+ 
+اسم المفوتر
+DATE (DD/MM/YYYY)
+2020/06/01 17:01
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20153843162353
+رقم العملية
+Transaction Description
+سداد فواتير  الخدمات / Bills Payment
+وصف العملية
+
+
+
+
+DATE AND TIME
+2020/06/01 19:17
+التاريخ والوقت
+TRANSACTION REF
+FT20153921608020
+رقم العملية
+Amount
+32   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ HALALAH CO 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/06/15 10:16
+التاريخ والوقت
+TRANSACTION REF
+ACLK20167X79BB
+رقم العملية
+Amount
+19.99   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Spotify AB P1024F809A 
+اسم التاجر
+Country
+ Sweden - السويد 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/06/24 07:33
+التاريخ والوقت
+TRANSACTION REF
+FT20176965094883
+رقم العملية
+Amount
+21   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ LEMON 28 PHARMACY 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/06/24 09:23
+التاريخ والوقت
+TRANSACTION REF
+FT20176460413900
+رقم العملية
+Amount
+43.5   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ BEHJA ALTWASEL 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/06/24 09:57
+التاريخ والوقت
+TRANSACTION REF
+FT20176398854205
+رقم العملية
+Amount
+25   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Muntami Company 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/06/25 07:44
+التاريخ والوقت
+TRANSACTION REF
+FT20177407579066
+رقم العملية
+Amount
+255.2   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ TAMIMI MARKETS S131 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+
+
+
+
+
+* The amount includes the VAT when applicable
+يشمل المبلغ ضريبة القيمة المضافة إذا كان قابل للتطبيق *
+
+
+
+
+
+
+
+* The amount includes the VAT when applicable
+يشمل المبلغ ضريبة القيمة المضافة إذا كان قابل للتطبيق *
+
+
+DATE AND TIME
+2020/07/01 10:57
+التاريخ والوقت
+TRANSACTION REF
+FT20183488600900
+رقم العملية
+Amount
+104.87   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ DANUBE FOODSTUFF 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/07/02 10:52
+التاريخ والوقت
+TRANSACTION REF
+FT20184579170950
+رقم العملية
+Amount
+370.19   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ JARIR BOOKSTORE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/07/03 16:57
+التاريخ والوقت
+TRANSACTION REF
+FT20185453003849
+رقم العملية
+Amount
+49   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ alrashdan gaz station 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/07/03 17:01
+التاريخ والوقت
+TRANSACTION REF
+FT20185845204648
+رقم العملية
+Amount
+205.36   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SPECIALITY COFFEE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/07/04 10:33
+التاريخ والوقت
+TRANSACTION REF
+FT20186450660551
+رقم العملية
+Amount
+100   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2020/07/04 16:04
+التاريخ والوقت
+TRANSACTION REF
+FT20186950942143
+رقم العملية
+Amount
+17   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Alsaah Altaseah Co 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/07/05 06:49
+التاريخ والوقت
+TRANSACTION REF
+FT20187085408793
+رقم العملية
+Amount
+25   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MCDONALDS TAKHASSUSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/07/07 15:44
+التاريخ والوقت
+TRANSACTION REF
+ACLK20189YMPZB
+رقم العملية
+Amount
+155.68   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ AMZN Mktp US 
+اسم التاجر
+Country
+ USA - أمريكا 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/07/10 19:16
+التاريخ والوقت
+TRANSACTION REF
+FT20192307598964
+رقم العملية
+Amount
+25   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ CAPRI CAFE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/07/11 00:30
+التاريخ والوقت
+TRANSACTION REF
+FT20193763411032
+رقم العملية
+Amount
+119   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ FORKATA 4 EXIT 2 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+Account Number
+xx001
+رقم الحساب
+Amount
+57.5   ( SAR )
+مبلغ و قدرة
+Bill Number
+ 966506085501 
+رقم الفاتورة
+Biller Name
+ 
+اسم المفوتر
+DATE (DD/MM/YYYY)
+2020/07/14 12:54
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20196509435433
+رقم العملية
+Transaction Description
+سداد فواتير  الخدمات / Bills Payment
+وصف العملية
+
+
+
+
+DATE AND TIME
+2020/07/15 10:15
+التاريخ والوقت
+TRANSACTION REF
+ACLK201972ZCRK
+رقم العملية
+Amount
+19.99   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Spotify AB P10885090F 
+اسم التاجر
+Country
+ Sweden - السويد 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/07/17 09:08
+التاريخ والوقت
+TRANSACTION REF
+FT20199787677941
+رقم العملية
+Amount
+108.55   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ TAMIMI MARKETS S131 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/07/17 09:20
+التاريخ والوقت
+TRANSACTION REF
+FT20199172179412
+رقم العملية
+Amount
+11   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ HALALAH CO 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/07/19 19:33
+التاريخ والوقت
+TRANSACTION REF
+FT20201425611412
+رقم العملية
+Amount
+1350   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2020/07/21 21:42
+التاريخ والوقت
+TRANSACTION REF
+ACLK202039FW0H
+رقم العملية
+Amount
+155.68   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ AMZN Mktp US MV4IB91K0 
+اسم التاجر
+Country
+ USA - أمريكا 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+
+DATE AND TIME
+2020/07/24 17:06
+التاريخ والوقت
+TRANSACTION REF
+FT20206995675758
+رقم العملية
+Amount
+350   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ ANGIE OF THE TIRES 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/07/24 19:37
+التاريخ والوقت
+TRANSACTION REF
+FT20206664880376
+رقم العملية
+Amount
+46   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Alsaah Altaseah Co 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+
+DATE AND TIME
+03/07/2020 17:01
+التاريخ والوقت
+TRANSACTION REF
+FT20185845204648
+رقم العملية
+Amount
+205.36 ( SAR )
+مبلغ و قدرة
+Account number
+555129680080001
+رقم الحساب
+Description
+دفع عبر نقاط البيع (مدى أثير)
+وصف العملية
+Details
+From mada card XX6762 with SPECIALITY COFFEE on Saudi Arabia
+تفاصيل العملية
+
+
+This Email and any files transmitted may contain confidential and/or privileged information and is intended solely for the addressee(s) named. If you have received this information in error, or are being posted by accident, please notify Bank Albilad by toll free number 8001230000, do not redistribute this email message, delete it immediately and keep no copies of it. All opinions and/or views expressed in this email are solely those of the author and do not necessarily represents those of Bank AlBilad.
+
+DATE AND TIME
+2020/08/01 18:09
+التاريخ والوقت
+TRANSACTION REF
+FT20214482885700
+رقم العملية
+Amount
+100   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SHAWARMA HOUSE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+Account Number
+xx001
+رقم الحساب
+Amount
+57.5   ( SAR )
+مبلغ و قدرة
+Bill Number
+ 966506085501 
+رقم الفاتورة
+Biller Name
+ 
+اسم المفوتر
+DATE (DD/MM/YYYY)
+2020/08/04 21:00
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20217230304583
+رقم العملية
+Transaction Description
+سداد فواتير  الخدمات / Bills Payment
+وصف العملية
+
+
+
+
+DATE AND TIME
+2020/08/05 17:58
+التاريخ والوقت
+TRANSACTION REF
+FT20218651053291
+رقم العملية
+Amount
+46   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Dominos 62920 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/06 19:13
+التاريخ والوقت
+TRANSACTION REF
+FT20219343482034
+رقم العملية
+Amount
+23   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ KEDEN INTERNATIONAL CO 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/07 09:26
+التاريخ والوقت
+TRANSACTION REF
+FT20220351913756
+رقم العملية
+Amount
+282.9   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ TAMIMI MARKETS S131 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/07 09:34
+التاريخ والوقت
+TRANSACTION REF
+FT20220790427614
+رقم العملية
+Amount
+27   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MCDONALDS TAKHASSUSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/07 22:12
+التاريخ والوقت
+TRANSACTION REF
+FT20220798490001
+رقم العملية
+Amount
+176   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ ALENNABI GRILL 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/10 18:32
+التاريخ والوقت
+TRANSACTION REF
+FT20223437182084
+رقم العملية
+Amount
+31   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ MUVI Cinema 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/13 22:07
+التاريخ والوقت
+TRANSACTION REF
+FT20226515824406
+رقم العملية
+Amount
+25   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ DRIP COFFEE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/13 23:39
+التاريخ والوقت
+TRANSACTION REF
+FT20226147560352
+رقم العملية
+Amount
+148   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ HALALAH 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/14 16:59
+التاريخ والوقت
+TRANSACTION REF
+FT20227408306260
+رقم العملية
+Amount
+164   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ JARIR BOOK STORE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/14 19:35
+التاريخ والوقت
+TRANSACTION REF
+FT20227178345718
+رقم العملية
+Amount
+53   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ HARDEES EUROMARCHE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/15 10:15
+التاريخ والوقت
+TRANSACTION REF
+ACLK202282KJYY
+رقم العملية
+Amount
+19.99   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Spotify AB P10E896A07 
+اسم التاجر
+Country
+ Sweden - السويد 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
+DATE AND TIME
+2020/08/16 15:08
+التاريخ والوقت
+TRANSACTION REF
+FT20229630307209
+رقم العملية
+Amount
+32   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ DUNKIN DONUTS 10327 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/21 17:53
+التاريخ والوقت
+TRANSACTION REF
+FT20234081168123
+رقم العملية
+Amount
+17.5   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ HALALAH CO 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/22 21:27
+التاريخ والوقت
+TRANSACTION REF
+FT20235330128820
+رقم العملية
+Amount
+14   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ ALRAHDEN 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/24 08:47
+التاريخ والوقت
+TRANSACTION REF
+FT20237113404619
+رقم العملية
+Amount
+50   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ one fuel stTION 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/24 12:57
+التاريخ والوقت
+TRANSACTION REF
+FT20237096903730
+رقم العملية
+Amount
+94   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ SHAWARMA HOUSE 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/26 17:36
+التاريخ والوقت
+TRANSACTION REF
+FT20239978323440
+رقم العملية
+Amount
+50   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Fahad Abdullah Al 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE (DD/MM/YYYY)
+2020/08/27 14:40
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20240735014647
+رقم العملية
+Amount
+75   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ حسام مزيد ال صقر 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2020/08/28 17:56
+التاريخ والوقت
+TRANSACTION REF
+FT20241740152153
+رقم العملية
+Amount
+16.1   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Cafe five elephants 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/29 08:58
+التاريخ والوقت
+TRANSACTION REF
+FT20242419038075
+رقم العملية
+Amount
+28   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Muntami Company 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/29 09:19
+التاريخ والوقت
+TRANSACTION REF
+FT20242945346030
+رقم العملية
+Amount
+50   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Al Dhaher Station 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/08/29 10:15
+التاريخ والوقت
+TRANSACTION REF
+FT20242036003820
+رقم العملية
+Amount
+115   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ camel step CO 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE (DD/MM/YYYY)
+2020/08/30 16:24
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20243036493639
+رقم العملية
+Amount
+35   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ حسام مزيد ال صقر 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE (DD/MM/YYYY)
+2020/08/31 14:26
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20244223087020
+رقم العملية
+Amount
+35   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ حسام مزيد ال صقر 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2020/08/31 20:58
+التاريخ والوقت
+TRANSACTION REF
+FT20244900997038
+رقم العملية
+Amount
+50   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE (DD/MM/YYYY)
+2020/09/01 14:05
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20245041548072
+رقم العملية
+Amount
+23   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ حسام مزيد ال صقر 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE (DD/MM/YYYY)
+2020/09/02 14:16
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20246242559777
+رقم العملية
+Amount
+35   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ حسام مزيد ال صقر 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2020/09/02 18:01
+التاريخ والوقت
+TRANSACTION REF
+FT20246943025260
+رقم العملية
+Amount
+18   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ HALALAH CO 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/09/03 18:56
+التاريخ والوقت
+TRANSACTION REF
+FT20247077560000
+رقم العملية
+Amount
+37   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ BREW 92 IMAM 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/09/04 00:45
+التاريخ والوقت
+TRANSACTION REF
+FT20248070904150
+رقم العملية
+Amount
+230   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Butcher shop Resta 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE AND TIME
+2020/09/04 16:35
+التاريخ والوقت
+TRANSACTION REF
+FT20248672873157
+رقم العملية
+Amount
+100   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+DATE AND TIME
+2020/09/05 14:50
+التاريخ والوقت
+TRANSACTION REF
+FT20249306158545
+رقم العملية
+Amount
+40.16   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+MADA card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ ALGHARB AL TAKHASSUSI 
+اسم التاجر
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+
+وصف العملية
+
+DATE (DD/MM/YYYY)
+2020/09/08 16:22
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20252909066883
+رقم العملية
+Amount
+47   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ حسام مزيد ال صقر 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE (DD/MM/YYYY)
+2020/09/09 15:05
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20253128469109
+رقم العملية
+Amount
+35   ( SAR )
+مبلغ و قدرة
+DEBIT THE A/C
+ xx001 
+تم الخصم من حساب
+Beneficiary Name
+ حسام مزيد ال صقر 
+اسم المستفيد
+Transaction Description
+Transfer Transaction
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+Account Number
+xx001
+رقم الحساب
+Amount
+57.5   ( SAR )
+مبلغ و قدرة
+Bill Number
+ 966506085501 
+رقم الفاتورة
+Biller Name
+ 
+اسم المفوتر
+DATE (DD/MM/YYYY)
+2020/09/09 15:06
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20253931908740
+رقم العملية
+Transaction Description
+سداد فواتير  الخدمات / Bills Payment
+وصف العملية
+
+
+
+
+Account Number
+ xx001 
+رقم الحساب
+THE SUM
+25.00   ( SAR )
+مبلغ و قدرة
+DATE (DD/MM/YYYY)
+2020/09/10 15:54
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20254152550715
+رقم العملية
+Sender Name
+حسام مزيد ال صقر
+اسم المحول
+Transaction Description
+ تحويل لمستفيد بنك البلاد /Transfer to Bank Albilad Beneficiary
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2020/09/11 02:34
+التاريخ والوقت
+TRANSACTION REF
+FT20255888961031
+رقم العملية
+Amount
+50   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Country
+ Saudi Arabia - السعودية 
+الدولة
+Transaction Details
+cash withdrawal - سحب نقدي
+وصف العملية
+
+
+
+
+Account Number
+xx001
+رقم الحساب
+Amount
+150   ( SAR )
+مبلغ و قدرة
+Service Name
+ الاستعلام عن المخالفات المروريه - رقم هوية المخالف 
+اسم الخدمة
+DATE (DD/MM/YYYY)
+2020/09/11 10:28
+التاريخ    يوم/شهر/سنة
+TRANSACTION REF
+FT20255168202035
+رقم العملية
+Transaction Description
+سداد خدمات وزارة الداخلية / MOI Payment
+وصف العملية
+
+
+
+
+
+* The amount includes the VAT when applicable
+
+DATE AND TIME
+2020/09/15 10:51
+التاريخ والوقت
+TRANSACTION REF
+ACLK20259N859V
+رقم العملية
+Amount
+19.99   ( SAR )
+مبلغ وقدره
+DEBIT THE A/C
+ xx001 
+تم الخصم من الحساب
+mada card
+ **6762 
+بطاقة مدى رقم
+Merchant name
+ Spotify AB P1150AD5ED 
+اسم التاجر
+Country
+ Sweden - السويد 
+الدولة
+Transaction Details
+E-commerce Purchase - دفع عبر مشتريات الانترنت
+وصف العملية
+
