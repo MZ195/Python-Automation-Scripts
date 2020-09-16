@@ -26,19 +26,19 @@ with open("transactions.json", "w") as ff:
         current_transaction = {}
         transaction_details = []
 
-        typ, data = mail.fetch(num, '(RFC822)' )
+        typ, data = mail.fetch(num, '(RFC822)')
         raw_email = data[0][1]
 
         email_content = mailparser.parse_from_bytes(raw_email)
         email_content = bs4.BeautifulSoup(email_content.body, "lxml")
-        
+
         email_td_tags = email_content.find_all('td')
         important_email_content = email_td_tags[3:30]
         for thing in important_email_content:
             line = str(thing)
 
             first_closing = line.index('>') + 1
-            inilist = [m.start() for m in re.finditer(r"<", line)] 
+            inilist = [m.start() for m in re.finditer(r"<", line)]
             second_opening = inilist[1]
 
             current_processed_information = line[first_closing:second_opening]
@@ -68,9 +68,10 @@ with open("transactions.json", "w") as ff:
                 continue
 
             transaction_details.append(current_processed_information)
-        
+
         # cleaning the data of empty fileds and re formatting it into CSV
-        transaction_details = [ele for ele in transaction_details if (ele not in ("", " "))] 
+        transaction_details = [
+            ele for ele in transaction_details if (ele not in ("", " "))]
 
         # Extract Date and Time details
         date_index = transaction_details.index('Date')
@@ -107,16 +108,18 @@ with open("transactions.json", "w") as ff:
 
         #  Extract Country information
         country_index = transaction_details.index('Country')
-        country_object = transaction_details[country_index + 1].split('-')[0].strip()
+        country_object = transaction_details[country_index + 1].split('-')[
+            0].strip()
         current_transaction["Country"] = country_object
 
         # Extract description
         description_index = transaction_details.index('Transaction Details')
-        description_object = transaction_details[description_index + 1].split(' - ')[0].strip()
+        description_object = transaction_details[description_index + 1].split(' - ')[
+            0].strip()
         current_transaction["Description"] = description_object
-        
+
         res = json.dumps(current_transaction)
-        
+
         ff.write(res)
         ff.write(", \n")
 
@@ -124,14 +127,14 @@ with open("transactions.json", "w") as ff:
 
 exit()
 
-    # for i in range(1, 9):
-    #     del details_list[i*2]
+# for i in range(1, 9):
+#     del details_list[i*2]
 
-    # final_json = {}
+# final_json = {}
 
-    # for i in range(0, 8):
-    #     if i % 2 == 0:
-    #         final_json[details_list[i]] = details_list[i+1]
-        
-    # print(final_json)
-    # details_list = []
+# for i in range(0, 8):
+#     if i % 2 == 0:
+#         final_json[details_list[i]] = details_list[i+1]
+
+# print(final_json)
+# details_list = []
