@@ -1,0 +1,24 @@
+<td class="form_title" dir="ltr" style="color:#524f4f;font-weight:bold" width="150">DATE AND TIME</td>
+<td class="info_box" style="color:#7f7f7f;text-align:center" width="300">2019/11/28 15:29</td>
+<td class="form_title" dir="rtl" style="color:#524f4f;font-weight:bold" width="150">التاريخ والوقت</td>
+<td class="form_title" dir="ltr" style="color:#524f4f;font-weight:bold" width="150">TRANSACTION REF</td>
+<td class="info_box" style="color:#7f7f7f;text-align:center" width="300">FT19332900780599</td>
+<td class="form_title" dir="rtl" style="color:#524f4f;font-weight:bold" width="150">رقم العملية</td>
+<td class="form_title" dir="ltr" style="color:#524f4f;font-weight:bold" width="150">Amount</td>
+<td class="info_box" style="color:#7f7f7f;text-align:center" width="300">1910.7   ( SAR )</td>
+<td class="form_title" dir="rtl" style="color:#524f4f;font-weight:bold" width="150">مبلغ وقدره</td>
+<td class="form_title" dir="ltr" style="color:#524f4f;font-weight:bold" width="150">DEBIT THE A/C</td>
+<td class="info_box" nowrap="nowrap" style="color:#7f7f7f;text-align:center" width="300"> xx001 </td>
+<td class="form_title" dir="rtl" style="color:#524f4f;font-weight:bold" width="150">تم الخصم من الحساب</td>
+<td class="form_title" dir="ltr" style="color:#524f4f;font-weight:bold" width="150">mada card</td>
+<td class="info_box" nowrap="nowrap" style="color:#7f7f7f;text-align:center" width="300"> **6762 </td>
+<td class="form_title" dir="rtl" style="color:#524f4f;font-weight:bold" width="150">بطاقة مدى رقم</td>
+<td class="form_title" dir="ltr" style="color:#524f4f;font-weight:bold" width="150">Merchant name</td>
+<td class="info_box" nowrap="nowrap" style="color:#7f7f7f;text-align:center" width="300"> Ubuy </td>
+<td class="form_title" dir="rtl" style="color:#524f4f;font-weight:bold" width="150">اسم التاجر</td>
+<td class="form_title" dir="ltr" style="color:#524f4f;font-weight:bold" width="150">Country</td>
+<td class="info_box" nowrap="nowrap" style="color:#7f7f7f;text-align:center" width="300"> Saudi Arabia - السعودية </td>
+<td class="form_title" dir="rtl" style="color:#524f4f;font-weight:bold" width="150">الدولة</td>
+<td class="form_title" dir="ltr" style="color:#524f4f;font-weight:bold" width="150">Transaction Details</td>
+<td class="info_box" nowrap="nowrap" style="color:#7f7f7f;text-align:center" width="300">E-commerce Purchase - دفع عبر مشتريات الانترنت</td>
+<td class="form_title" dir="rtl" style="color:#524f4f;font-weight:bold" width="150">وصف العملية</td>

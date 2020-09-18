@@ -1,0 +1,26 @@
+# with open("mail.txt", "r") as f:
+#     for line in f.readlines():
+#         first_closing = line.index('>') + 1
+#         inilist = [m.start() for m in re.finditer(r"<", line)] 
+#         second_opening = inilist[1]
+#         details_list.append(line[first_closing:second_opening])
+
+# details_list.remove()
+# print(details_list)
+
+# converts byte literal to string removing b''
+    # raw_email_string = raw_email.decode('utf-8')
+    # email_message = email.message_from_string(raw_email_string)
+    # print(email_message)
+
+
+# b = email.message_from_string(a)
+# if b.is_multipart():
+#     for payload in b.get_payload():
+#         # if payload.is_multipart(): ...
+#         print payload.get_payload()
+# else:
+#     print b.get_payload()
+
+
+ #  ['DATE AND TIME', '2019/11/28 15:29', 'TRANSACTION REF', 'FT19332900780599', 'Amount', '1910.7 \xa0 ( SAR )', 'DEBIT THE A/C', ' xx001 ', 'mada card', ' **6762 ', 'Merchant name', ' Ubuy ', 'Country', ' Saudi Arabia - السعودية ', 'Transaction Details', 'E-commerce Purchase - دفع عبر مشتريات الانترنت']
